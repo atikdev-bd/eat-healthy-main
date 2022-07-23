@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+  
+}
+.flexible-container{
+    display: flex;
+    margin: 40px 40px;
+
+}
+.top-banner{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+   margin: 60px 60px;
+   
+
+}
+.text{
+    text-align: center;
+   margin-left: 350px;
+}
+.half-width{
+  width: 50%;
+  
+  
+}
+.half-width-side{
+    padding-left: 300px;
+}
+
+.half-width img{
+    width: 70%;
+}
+.half-width-1{
+    width: 20%;
+}
+
+.orage{
+    color: orange;
+}
+section{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+}
+.link-button{
+    text-decoration:none;
+    background-image: linear-gradient(red,orange);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: azure;
+}
